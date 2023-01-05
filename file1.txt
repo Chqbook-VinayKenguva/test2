@@ -1,1 +1,1 @@
-file1 new content
+new content for file1
